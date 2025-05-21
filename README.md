@@ -55,7 +55,9 @@ Las llamadas a la API se realizan mediante Axios u Fetch, la URL base está defi
 El checkout está conectado a Stripe (modo sandbox). Para pruebas puedes usar:
 
 Tarjeta: 4242 4242 4242 4242
+
 Fecha: Cualquiera válida (ej. 12/34)
+
 CVC: 123
 
 
