@@ -80,7 +80,8 @@ en nuestro caso apuntamos al localhost por las pruebas de back
 npm run dev
 
 🎯 Objetivo del proyecto
-Este frontend fue parte del proyecto final del curso de React, cuyo objetivo fue construir una plataforma eCommerce desde cero, utilizando tecnologías modernas tanto en el frontend como en el backend (Node.js + Express + SQL).
+
+Este frontend fue parte del proyecto final del curso de React, cuyo objetivo fue construir una plataforma eCommerce desde cero, utilizando tecnologías modernas tanto en el frontend como en el backend (Node.js + Express + SQL + POSTMAN + JSON).
 
 Se trata de una app realista, preparada para seguir creciendo e integrar nuevas funcionalidades como panel de administración, reviews, favoritos, etc.
 
