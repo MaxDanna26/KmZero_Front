@@ -17,14 +17,23 @@ El frontend está organizado en módulos reutilizables para facilitar la escalab
 
 src/
 ├── Assets/ # Imágenes, fuentes, etc.
+
 ├── Layout/ # Componentes comunes de diseño (navbar, footer)
+
 ├── Pages/ # Vistas principales (Home, Login, ProductDetail, etc.)
+
 ├── Routes/ # Definición de rutas públicas y privadas
-├── Services/ # Lógica de conexión con el backend (Axios)
+
+├── Services/ # Lógica de conexión con el backend 
+
 ├── Shared/ # Componentes reutilizables
+
 ├── Store/ # Configuración de Redux y slices
+
 ├── App.jsx # Componente principal
+
 ├── main.jsx # Punto de entrada
+
 ├── reset.css # Reset de estilos base
 
 ## ⚙️ Funcionalidades implementadas
