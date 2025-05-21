@@ -16,6 +16,7 @@ Este proyecto representa el **frontend completo** de un eCommerce desarrollado c
 El frontend está organizado en módulos reutilizables para facilitar la escalabilidad:
 
 src/
+
 ├── Assets/ # Imágenes, fuentes, etc.
 
 ├── Layout/ # Componentes comunes de diseño (navbar, footer)
